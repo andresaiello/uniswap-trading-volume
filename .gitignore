@@ -1,0 +1,16 @@
+.DS_Store
+npm_modules
+npm_modules/*
+node_modules
+node_modules/*
+.next
+.next/*
+build
+build/*
+.env
+logs/*
+logs
+examples/*
+examples
+dist
+dist/*
